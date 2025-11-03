@@ -11,7 +11,7 @@
 ### 📂 Proyectos destacados:
 - [Data Scientist Portfolio](https://github.com/Jose-Quintanilla-I/Data-Scientist)
 - [Machine Learning Projects](https://github.com/Jose-Quintanilla-I/machine-learning)
-- [Neural Networks](https://github.com/Jose-Quintanilla-I/redes-neuronales)
+- [Neural Networks](https://github.com/Jose-Quintanilla-I/Data-Scientist/tree/main/redes-neuronales)
 
 ### 📫 Contáctame:
 - Email: jose.quintanilla.inostroza@gmail.com
