@@ -10,7 +10,7 @@
 
 ### 📂 Proyectos destacados:
 - [Data Scientist Portfolio](https://github.com/Jose-Quintanilla-I/Data-Scientist)
-- [Machine Learning Projects](https://github.com/Jose-Quintanilla-I/machine-learning)
+- [Machine Learning Projects](https://github.com/Jose-Quintanilla-I/Data-Scientist/tree/main/machine-learning)
 - [Neural Networks](https://github.com/Jose-Quintanilla-I/Data-Scientist/tree/main/redes-neuronales)
 
 ### 📫 Contáctame:
